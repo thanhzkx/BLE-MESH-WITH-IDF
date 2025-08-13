@@ -1,4 +1,10 @@
 dependencies:
+  button:
+    dependencies: []
+    source:
+      path: D:\32\Espressif\frameworks\esp-idf-v5.4\examples\bluetooth\esp_ble_mesh\common_components\button
+      type: local
+    version: '*'
   example_init:
     dependencies: []
     source:
@@ -10,7 +16,8 @@ dependencies:
       type: idf
     version: 5.4.0
 direct_dependencies:
+- button
 - example_init
-manifest_hash: 10f93f5238da590da5170c8a986e85c78cafbc4aa55c1fd7320cc52fd8c97cee
+manifest_hash: 7fd13577b9c8d90dfddbbb2b2c1b633f9d718bd8c53a4a805e6d88b3e445741e
 target: esp32c3
 version: 2.0.0
