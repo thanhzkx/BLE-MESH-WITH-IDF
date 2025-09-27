@@ -9,28 +9,14 @@
 This project was developed during an internship at **Duy Anh System Management Solutions**.  
 It shows how **Bluetooth Low Energy (BLE) Mesh** can be used to monitor machines, transmit sensor data, and maintain stable communication even when nodes are out of direct range.
 
----
 
-## 🖼️ System Diagram
-![System Diagram](Diagram.jpg)
-
----
-
-## 📐 Hardware Design
-### Schematic
-![Schematic](Schematic.jpg)
-
-### PCB Layout
-![PCB Layout](PCB.jpg)
-
----
 
 ## 📊 Results & Evaluation
 - Sensor data successfully transmitted from **Sensor Server → Sensor Client**.  
 - Relay ensured stable communication when Client was out of direct range.  
 - Logs confirmed proper decoding of messages (Sensor Status, Descriptor, Cadence, etc.).  
 
-![Results](Result.jpg)
+
 
 ---
 
@@ -60,4 +46,5 @@ It shows how **Bluetooth Low Energy (BLE) Mesh** can be used to monitor machines
 ## 👨‍💻 Author
 Nguyễn Minh Thành – Ho Chi Minh City University of Technology (HCMUT)  
 ✉️ Contact: **nguyenminhthanh.office@gmail.com**
+
 
