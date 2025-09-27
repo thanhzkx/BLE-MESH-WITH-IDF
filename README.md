@@ -59,4 +59,5 @@ It shows how **Bluetooth Low Energy (BLE) Mesh** can be used to monitor machines
 
 ## 👨‍💻 Author
 Nguyễn Minh Thành – Ho Chi Minh City University of Technology (HCMUT)  
-✉️ Contact: **nguyenminhthanh.offfice@gmail.com**
+✉️ Contact: **nguyenminhthanh.office@gmail.com**
+
