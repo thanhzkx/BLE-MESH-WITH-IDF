@@ -1,6 +1,6 @@
 # 🔗 BLE Mesh Monitoring System
 
-> **Description**: Machine monitoring system using **ESP32 and BLE Mesh**.  
+> **Description**: ESP32 BLE Mesh system for monitoring temperature and humidity with Sensor Server/Client nodes and relay support for stable industrial communication.  
 > Demonstrates provisioning, sensor data transmission, and relay operation for stable communication in industrial environments.
 
 ---
@@ -46,6 +46,7 @@ It shows how **Bluetooth Low Energy (BLE) Mesh** can be used to monitor machines
 ## 👨‍💻 Author
 Nguyễn Minh Thành – Ho Chi Minh City University of Technology (HCMUT)  
 ✉️ Contact: **nguyenminhthanh.office@gmail.com**
+
 
 
 
